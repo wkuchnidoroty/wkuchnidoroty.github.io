@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ciasta on W Kuchni Doroty</title>
+    <link>https://wkuchnidoroty.github.io/categories/ciasta/</link>
+    <description>Recent content in ciasta on W Kuchni Doroty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wkuchnidoroty.github.io/categories/ciasta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kopiec kreta</title>
+      <link>https://wkuchnidoroty.github.io/posts/przepis-kret/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wkuchnidoroty.github.io/posts/przepis-kret/</guid>
+      <description>Ciasto kopiec kreta to popularne ciasto, które naśladuje wygląd kopca zrobionego przez kreta.</description>
+    </item>
+    
+  </channel>
+</rss>

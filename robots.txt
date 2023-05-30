@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wkuchnidoroty.github.io/sitemap.xml

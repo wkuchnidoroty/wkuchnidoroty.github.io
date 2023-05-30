@@ -204,6 +204,16 @@
 
             
             
+  <a href="/about/"  class="flex items-center">
+    
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="O mnie">
+        O mnie
+    </p>
+</a>
+
+
+            
+            
 
             
 
@@ -293,6 +303,20 @@
         
         <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Blog z przepisami">
             Blog z przepisami
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/about/"  class="flex items-center">
+        
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="O mnie">
+            O mnie
         </p>
     </a>
 </li>
@@ -624,6 +648,15 @@
 
 
 </section>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
 
 
   

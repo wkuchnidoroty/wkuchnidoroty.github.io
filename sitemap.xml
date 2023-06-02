@@ -5,7 +5,52 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/categories/</loc>
-            <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/tags/kark%C3%B3wka/</loc>
+            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-karkowka-w-sosie-wlasnym/</loc>
+            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/categories/obiad/</loc>
+            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/tags/</loc>
+            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/</loc>
+            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -67,24 +112,6 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.github.io/tags/</loc>
-            <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/</loc>
-            <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.github.io/tags/czekolada/</loc>
             <lastmod>2023-05-29T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -104,6 +131,15 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/posts/przepis-kret/</loc>
+            <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-hasa/</loc>
             <lastmod>2023-05-29T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

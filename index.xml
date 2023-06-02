@@ -119,16 +119,6 @@
     </item>
     
     <item>
-      <title>Nazwa dania</title>
-      <link>https://wkuchnidoroty.github.io/posts/przepis-hasa/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://wkuchnidoroty.github.io/posts/przepis-hasa/</guid>
-      <description>Przygotowujemy # skladnik 1/2 skladnik 2 skladnik 3 Tutaj jakas instukcja czy cos.</description>
-      
-    </item>
-    
-    <item>
       <title>Panacotta</title>
       <link>https://wkuchnidoroty.github.io/posts/przepis-panacotta/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
@@ -136,6 +126,16 @@
       <guid>https://wkuchnidoroty.github.io/posts/przepis-panacotta/</guid>
       <description>Przygotowujemy # 500ml śmietany 30%</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.github.io/posts/przepis-panacotta/featured.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wkuchnidoroty.github.io/posts/przepis-sernik-nowojorski-z-wi%C5%9Bniami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wkuchnidoroty.github.io/posts/przepis-sernik-nowojorski-z-wi%C5%9Bniami/</guid>
+      <description>title: &amp;ldquo;Sernik Nowojorski z wiśniami&amp;rdquo; date: 2023-06-02 draft: false</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.github.io/posts/przepis-sernik-nowojorski-z-wi%C5%9Bniami/featured.png" />
     </item>
     
     <item>

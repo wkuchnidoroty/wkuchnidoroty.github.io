@@ -22,15 +22,6 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.github.io/categories/ciasto/</loc>
-            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.github.io/posts/przepis-ciasto-ucierane-z-rabarbarem/</loc>
             <lastmod>2023-06-02T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -166,15 +157,6 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.github.io/tags/ucierane/</loc>
-            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.github.io/</loc>
             <lastmod>2023-06-02T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -202,24 +184,6 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.github.io/categories/ciasta/</loc>
-            <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/tags/deser/</loc>
-            <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.github.io/tags/dro%C5%BCd%C5%BCowe/</loc>
             <lastmod>2023-06-01T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -238,7 +202,7 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.github.io/tags/czekolada/</loc>
+            <loc>https://wkuchnidoroty.github.io/tags/deser/</loc>
             <lastmod>2023-05-29T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -248,15 +212,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/posts/przepis-kret-truskawki/</loc>
-            <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/posts/przepis-hasa/</loc>
             <lastmod>2023-05-29T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -276,6 +231,14 @@
       <url>
             <loc>https://wkuchnidoroty.github.io/posts/</loc>
             <lastmod>2022-08-12T03:13:37-07:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-sernik-nowojorski-z-wi%C5%9Bniami/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>

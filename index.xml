@@ -15,7 +15,7 @@
       
       <guid>https://wkuchnidoroty.github.io/posts/przepis-grochowka-wojskowa/</guid>
       <description>Grochówka # 2 średnie marchewki 4 litry wody 1 pietruszka mała 300 g boczku wędzonego 300g kiełbasy 500g grochu łuskanego 3 ziemniaczki pokrojone w kostkę 2 małe cebule 1 łyżeczka majeranku Kilka ziaren ziela angielskiego 3 listki laurowe Sól, pieprz do smaku.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.github.io/posts/przepis-grochowka-wojskowa/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.github.io/posts/przepis-grochowka-wojskowa/featured.png" />
     </item>
     
     <item>
@@ -26,6 +26,16 @@
       <guid>https://wkuchnidoroty.github.io/posts/przepis-karkowka-w-sosie-wlasnym/</guid>
       <description>Karkówka w sosie własnym # Karkówka pokrojona w cm plastry.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.github.io/posts/przepis-karkowka-w-sosie-wlasnym/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Szparagi</title>
+      <link>https://wkuchnidoroty.github.io/posts/przepis-szparagi/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wkuchnidoroty.github.io/posts/przepis-szparagi/</guid>
+      <description>Szparagi # Przepis:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.github.io/posts/przepis-szparagi/featured.png" />
     </item>
     
     <item>
@@ -49,13 +59,13 @@
     </item>
     
     <item>
-      <title>Kopiec kreta</title>
-      <link>https://wkuchnidoroty.github.io/posts/przepis-kret/</link>
+      <title>Kopiec kreta z truskawkami</title>
+      <link>https://wkuchnidoroty.github.io/posts/przepis-kret-truskawki/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://wkuchnidoroty.github.io/posts/przepis-kret/</guid>
+      <guid>https://wkuchnidoroty.github.io/posts/przepis-kret-truskawki/</guid>
       <description>Ciasto kopiec kreta to popularne ciasto, które naśladuje wygląd kopca zrobionego przez kreta.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.github.io/posts/przepis-kret/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.github.io/posts/przepis-kret-truskawki/featured.jpeg" />
     </item>
     
     <item>

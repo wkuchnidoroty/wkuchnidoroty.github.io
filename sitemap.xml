@@ -4,7 +4,25 @@
   
     
       <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-brownie-czekoladowe/</loc>
+            <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://wkuchnidoroty.github.io/categories/</loc>
+            <lastmod>2023-06-04T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/tags/ciasto/</loc>
             <lastmod>2023-06-04T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -86,15 +104,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/posts/przepis-kebab-z-serem/</loc>
-            <lastmod>2023-06-03T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/tags/ciasto/</loc>
             <lastmod>2023-06-03T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

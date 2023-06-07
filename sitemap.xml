@@ -5,16 +5,7 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/categories/</loc>
-            <lastmod>2023-06-05T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/tags/ciastka/</loc>
-            <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+            <lastmod>2023-06-07T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -23,7 +14,16 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/tags/ciasto/</loc>
-            <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+            <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-ciasto-czekoladowe/</loc>
+            <lastmod>2023-06-07T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -32,6 +32,33 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/categories/deser/</loc>
+            <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/tags/</loc>
+            <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/</loc>
+            <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/tags/ciastka/</loc>
             <lastmod>2023-06-05T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -50,24 +77,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/posts/przepis-napoleonki/</loc>
-            <lastmod>2023-06-05T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/tags/</loc>
-            <lastmod>2023-06-05T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/</loc>
             <lastmod>2023-06-05T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

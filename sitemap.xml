@@ -436,6 +436,15 @@
   
     
       <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-sernik-nowojorski-z-wi%C5%9Bniami/</loc>
+            <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://wkuchnidoroty.github.io/posts/przepis-szachownica/</loc>
             <lastmod>2023-06-02T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -508,6 +517,15 @@
   
     
       <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-abc/</loc>
+            <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://wkuchnidoroty.github.io/posts/przepis-panacotta/</loc>
             <lastmod>2023-05-29T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -519,14 +537,6 @@
       <url>
             <loc>https://wkuchnidoroty.github.io/posts/</loc>
             <lastmod>2022-08-12T03:13:37-07:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/posts/przepis-sernik-nowojorski-z-wi%C5%9Bniami/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>

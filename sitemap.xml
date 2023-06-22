@@ -4,8 +4,8 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.github.io/posts/przepis-buleczki-focaccia-z-tunczykiem/</loc>
-            <lastmod>2023-06-17T00:00:00+00:00</lastmod>
+            <loc>https://wkuchnidoroty.github.io/categories/</loc>
+            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -13,7 +13,52 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.github.io/categories/</loc>
+            <loc>https://wkuchnidoroty.github.io/categories/deser/</loc>
+            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/tags/dro%C5%BCd%C5%BCowe/</loc>
+            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-jagodzianki/</loc>
+            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/tags/</loc>
+            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/</loc>
+            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.github.io/posts/przepis-buleczki-focaccia-z-tunczykiem/</loc>
             <lastmod>2023-06-17T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -40,34 +85,7 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.github.io/tags/</loc>
-            <lastmod>2023-06-17T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/</loc>
-            <lastmod>2023-06-17T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.github.io/tags/ciasto/</loc>
-            <lastmod>2023-06-16T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/categories/deser/</loc>
             <lastmod>2023-06-16T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -131,15 +149,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.github.io/posts/przepis-buleczki-z-kurczakiem/</loc>
-            <lastmod>2023-06-10T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.github.io/tags/dro%C5%BCd%C5%BCowe/</loc>
             <lastmod>2023-06-10T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

@@ -9,6 +9,16 @@
     <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Sun, 25 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wkuchnidoroty.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Chleb</title>
+      <link>https://wkuchnidoroty.pl/posts/przepis-chleb/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wkuchnidoroty.pl/posts/przepis-chleb/</guid>
+      <description>Chleb # Hej, dziendobry!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.pl/posts/przepis-chleb/featured.jpeg" />
+    </item>
+    
+    <item>
       <title>Kruche ciasto</title>
       <link>https://wkuchnidoroty.pl/posts/przepis-kruche-ciasto/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
@@ -70,12 +80,12 @@
     
     <item>
       <title>Bułeczki poranne</title>
-      <link>https://wkuchnidoroty.pl/posts/buleczki-poranne/</link>
+      <link>https://wkuchnidoroty.pl/posts/przepis-buleczki-poranne/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://wkuchnidoroty.pl/posts/buleczki-poranne/</guid>
+      <guid>https://wkuchnidoroty.pl/posts/przepis-buleczki-poranne/</guid>
       <description>Bułeczki poranne # Dzień dobry Słoneczka</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.pl/posts/buleczki-poranne/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.pl/posts/przepis-buleczki-poranne/featured.png" />
     </item>
     
     <item>
@@ -355,7 +365,7 @@
       
       <guid>https://wkuchnidoroty.pl/posts/przepis-szparagi/</guid>
       <description>Szparagi # Przepis:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.pl/posts/przepis-szparagi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.pl/posts/przepis-szparagi/featured.jpeg" />
     </item>
     
     <item>
@@ -406,16 +416,6 @@
       <guid>https://wkuchnidoroty.pl/readme/</guid>
       <description></description>
       
-    </item>
-    
-    <item>
-      <title>Chleb</title>
-      <link>https://wkuchnidoroty.pl/posts/przepis-chleb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wkuchnidoroty.pl/posts/przepis-chleb/</guid>
-      <description>Chleb # Hej, dziendobry!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.pl/posts/przepis-chleb/featured.jpeg" />
     </item>
     
     <item>

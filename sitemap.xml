@@ -5,7 +5,52 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/categories/</loc>
-            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+            <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/tags/deser/</loc>
+            <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/categories/deser/</loc>
+            <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/posts/przepis-kruche-ciasto/</loc>
+            <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/tags/</loc>
+            <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/</loc>
+            <lastmod>2023-06-25T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -31,15 +76,6 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.pl/categories/deser/</loc>
-            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.pl/tags/dro%C5%BCd%C5%BCowe/</loc>
             <lastmod>2023-06-22T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -50,24 +86,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/posts/przepis-jagodzianki/</loc>
-            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/tags/</loc>
-            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/</loc>
             <lastmod>2023-06-22T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -517,15 +535,6 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.pl/tags/deser/</loc>
-            <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.pl/posts/przepis-kret-truskawki/</loc>
             <lastmod>2023-05-29T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -561,7 +570,31 @@
   
     
       <url>
+            <loc>https://wkuchnidoroty.pl/categories/chleb/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/posts/przepis-chleb/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://wkuchnidoroty.pl/about/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/tags/pieczywo/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>

@@ -4,6 +4,24 @@
   
     
       <url>
+            <loc>https://wkuchnidoroty.pl/posts/przepis-buleczki-maslane/</loc>
+            <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/tags/bu%C5%82ki/</loc>
+            <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://wkuchnidoroty.pl/categories/</loc>
             <lastmod>2023-06-27T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -14,6 +32,15 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/categories/danie/</loc>
+            <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/categories/deser/</loc>
             <lastmod>2023-06-27T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -77,15 +104,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/tags/deser/</loc>
-            <lastmod>2023-06-25T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/categories/deser/</loc>
             <lastmod>2023-06-25T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

@@ -22,7 +22,34 @@
   
     
       <url>
+            <loc>https://wkuchnidoroty.pl/tags/ciasto/</loc>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://wkuchnidoroty.pl/categories/danie/</loc>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/categories/deser/</loc>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/posts/przepis-lesny-mech/</loc>
             <lastmod>2023-07-03T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -112,15 +139,6 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.pl/categories/deser/</loc>
-            <lastmod>2023-06-27T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.pl/posts/przepis-golonka/</loc>
             <lastmod>2023-06-27T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -177,15 +195,6 @@
       <url>
             <loc>https://wkuchnidoroty.pl/tags/pieczywo/</loc>
             <lastmod>2023-06-25T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/tags/ciasto/</loc>
-            <lastmod>2023-06-22T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>

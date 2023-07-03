@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wkuchnidoroty.pl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wkuchnidoroty.pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tuńczyk grillowany z sosem pieprzowym</title>
+      <link>https://wkuchnidoroty.pl/posts/przepis-tunczyk/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wkuchnidoroty.pl/posts/przepis-tunczyk/</guid>
+      <description>Dzień dobry!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.pl/posts/przepis-tunczyk/featured.jpeg" />
+    </item>
+    
     <item>
       <title>Racuchy wytrawne</title>
       <link>https://wkuchnidoroty.pl/posts/przepis-raczuchy-wytrawne/</link>
@@ -436,16 +446,6 @@
       <guid>https://wkuchnidoroty.pl/posts/przepis-kret-truskawki/</guid>
       <description>Ciasto kopiec kreta to popularne ciasto, które naśladuje wygląd kopca zrobionego przez kreta.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://wkuchnidoroty.pl/posts/przepis-kret-truskawki/featured.jpeg" />
-    </item>
-    
-    <item>
-      <title>Nazwa dania</title>
-      <link>https://wkuchnidoroty.pl/posts/przepis-buleczki/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://wkuchnidoroty.pl/posts/przepis-buleczki/</guid>
-      <description>Przygotowujemy # skladnik 1 skladnik 2 skladnik 3 Zdjecia # Previous Nextsads Tekst.</description>
-      
     </item>
     
     <item>

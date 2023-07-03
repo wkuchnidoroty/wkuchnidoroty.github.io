@@ -5,7 +5,7 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/categories/</loc>
-            <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -14,7 +14,43 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/categories/danie/</loc>
-            <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/tags/obiad/</loc>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/tags/</loc>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/posts/przepis-tunczyk/</loc>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/</loc>
+            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -32,24 +68,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/tags/%C5%9Bniadanie/</loc>
-            <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/tags/</loc>
-            <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/</loc>
             <lastmod>2023-07-01T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -86,15 +104,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/posts/przepis-golonka/</loc>
-            <lastmod>2023-06-27T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/tags/obiad/</loc>
             <lastmod>2023-06-27T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -608,15 +617,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/posts/przepis-kret-truskawki/</loc>
-            <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/posts/przepis-buleczki/</loc>
             <lastmod>2023-05-29T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

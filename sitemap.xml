@@ -5,7 +5,52 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/categories/</loc>
-            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+            <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/categories/danie/</loc>
+            <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/posts/przepis-kartacze/</loc>
+            <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/tags/obiad/</loc>
+            <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/tags/</loc>
+            <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://wkuchnidoroty.pl/</loc>
+            <lastmod>2023-07-16T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -40,15 +85,6 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.pl/categories/danie/</loc>
-            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.pl/categories/deser/</loc>
             <lastmod>2023-07-03T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -59,15 +95,6 @@
     
       <url>
             <loc>https://wkuchnidoroty.pl/posts/przepis-lesny-mech/</loc>
-            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/tags/obiad/</loc>
             <lastmod>2023-07-03T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -94,25 +121,7 @@
   
     
       <url>
-            <loc>https://wkuchnidoroty.pl/tags/</loc>
-            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://wkuchnidoroty.pl/posts/przepis-tunczyk/</loc>
-            <lastmod>2023-07-03T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://wkuchnidoroty.pl/</loc>
             <lastmod>2023-07-03T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
